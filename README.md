@@ -1,2 +1,2 @@
 # PCEP-Python
-PCEP Cpourse
+PCEP Course - Entry Level Python Certificate
